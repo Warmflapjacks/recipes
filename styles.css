@@ -1,5 +1,7 @@
 body {
     background-color: rgb(240, 200, 151);
+    font-size: 20px;
+    font-family: Arial, Verdana, sans-serif;
 }
 
 .recipe-photo {
