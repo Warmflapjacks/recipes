@@ -4,6 +4,9 @@ body {
     font-family: Arial, Verdana, sans-serif;
 }
 
+li {
+    margin: 10px;
+}
 .recipe-photo {
     height: auto;
     width: 600px;
